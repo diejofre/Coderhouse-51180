@@ -1,0 +1,10 @@
+.container {
+  display: flex;
+  background-color: blue;
+  color: white;
+  justify-content: space-around;
+
+  &:hover {
+    background-color: yellow;
+  }
+}
